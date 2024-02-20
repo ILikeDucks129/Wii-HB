@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>InspectMii</name>
+    <coder>JoostinOnline</coder>
+    <version>v1.2</version>
+    <release_date>20140603000000</release_date>
+    <short_description>Shows dozens of your Wii settings</short_description>
+    <long_description>Intended as a companion app to SysCheck HDE, InspectMii shows and logs every single significant setting on your Wii. It is especially useful if you are looking for any conflicting or potentially problematic settings.  Info is grabbed from SYSCONF, dhcp.dat, and setting.txt.  It is compatible with the vWii.
+
+Credit goes to Coto for the app title, and Acidflare for testing.
+
+Donations are welcome.  A PayPal link can be found on the Google Code page.</long_description>
+</app>

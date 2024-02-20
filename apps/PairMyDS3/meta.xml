@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <app version="20150101">
+    <name>Pair My DS3</name>
+    <coder>Xerpi</coder>
+    <version>20150101</version>
+    <release_date>20150101</release_date>
+    <short_description>Pairing Tool for PS3 Sixaxis Controller</short_description>
+    <long_description>Writes .dat file to Wii Nand and Enables Wii Homebrew to use PS3 controller Wirelessly via BT</long_description>
+  </app>
